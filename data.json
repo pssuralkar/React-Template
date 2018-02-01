@@ -1,0 +1,17 @@
+{
+  "event": "Trumin Festival",
+  "tickets": [
+    {
+      "type": "Men",
+      "price": "10.50"
+    },
+    {
+      "type": "Women",
+      "price": "5.50"
+    },
+    {
+      "type": "Kids",
+      "price": "3.50"
+    }
+  ]
+}
